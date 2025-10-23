@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is MedaByte, and I'm a Pre-engineering student from Tunisia</h2>
 
-<img align="right" height="150" src="https://media.giphy.com/media/3o6ZsZtYpQ1e2q5x6M/giphy.gif" alt="Madness Combat GIF" />
+<img align="right" height="150" src="[https://media.giphy.com/media/3o6ZsZtYpQ1e2q5x6M/giphy.gif](https://tenor.com/view/grunt-madness-combat-gif-5670117224744960268)" alt="Madness Combat GIF" />
 
 
 ### About Me
