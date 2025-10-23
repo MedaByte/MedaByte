@@ -59,4 +59,4 @@
 
 ### Fun
 <br clear="both">
-<img src="https://raw.githubusercontent.com/MedaByte/MedaByte/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MedaByte/MedaByte/snake.svg" alt="Snake animation" />
