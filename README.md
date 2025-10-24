@@ -39,8 +39,6 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://d0.awsstatic.com/logos/powered-by-aws.png" alt="Powered by AWS" height="30" />
-  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
