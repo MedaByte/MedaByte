@@ -6,7 +6,7 @@
 ### About Me
 - 🔭 I’m currently working on [Peer2Peer Academy Tech Office](https://peer2peeracademy.org)
 - 🌱 I’m currently learning **C++, SDL framework, Python, math, electricity, and physics**
-- 👯 I’m looking to collaborate on **open-source tools that help students learn coding, AI, and automation faster**
+- 👯 I’m looking to collaborate on **open-source tools that help students learn coding, AI, and automation faster, GameDev**
 - 🤝 I’m looking for help with **volunteering opportunities, collaborative initiatives, and meaningful tech projects**
 - 💬 Ask me about **C++ & SDL projects, Python programming, and community-driven tech initiatives**
 - 📫 How to reach me: **md.mnasria@gmail.com**
