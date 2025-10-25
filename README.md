@@ -14,9 +14,9 @@
 
 ### GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=medabyte&show_icons=true&theme=dracula" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MedaByte&show_icons=true&theme=dracula" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medabyte&layout=compact&theme=dracula" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeedaByte&layout=compact&theme=dracula" height="150" alt="languages graph" />
 </div>
 
 
