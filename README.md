@@ -12,12 +12,12 @@
 - 📫 How to reach me: **md.mnasria@gmail.com**
 - ⚡ Fun fact: **I’m a programmer and I don’t like coffee**
 
-### GitHub Stats
+### 🚀 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MedaByte&show_icons=true&theme=dracula" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedaByte&layout=compact&theme=dracula" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MedaByte&show_icons=true&theme=dracula&cache_seconds=1800" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MedaByte&layout=compact&theme=dracula&cache_seconds=1800" height="150" alt="Top Languages" />
 </div>
+
 
 
 ### Languages and Tools
